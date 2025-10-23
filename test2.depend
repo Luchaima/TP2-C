@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1758185787 source:c:\users\tarti\downloads\seance_1_variables_printf_scanf.c
+	<stdio.h>
+	<stdlib.h>
+
+1758747624 source:c:\users\tarti\downloads\c\test2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
