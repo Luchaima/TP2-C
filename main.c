@@ -166,7 +166,7 @@ int main()
     } else if (imc >= 35 && imc < 40) {
         printf("Interprétation : Obésité sévère\n");
     } else {
-        printf("Interprétation : Obésité morbide\n");
+        printf("Interprétation : Obésité morbide, mais c'est pas grave\n");
     }
 
 
